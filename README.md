@@ -1,6 +1,9 @@
 Inofficial Templates for the Corporate Design
 =============================================
 
+Additions to the official templates at
+  https://www.hzdr.de/db/Cms?pOid=14247&pNid=435
+
 ## Color Palettes
 
 ### Inkscape
